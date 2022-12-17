@@ -19,10 +19,7 @@
 
 **Latest version :**
 
-```
 [V 1.0](https://github.com/sobazino/Shelem/releases/tag/v1.0)
-
-```
 
 ---
 
