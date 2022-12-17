@@ -1,6 +1,6 @@
 # Shelem
 
-**<p align="center">- - -</p>**
+**<p align="center">درباره بازی شلم</p>**
 
 </br>
 
@@ -19,7 +19,7 @@
 
 **Latest version :**
 
-[V 1.0](https://github.com/sobazino/Shelem/releases/tag/v1.0)
+[Beta - V 1.0](https://github.com/sobazino/Shelem/releases/tag/v1.0)
 
 ---
 
