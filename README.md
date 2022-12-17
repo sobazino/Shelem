@@ -9,7 +9,6 @@
 </br>
 
 <p align="center">
-<img src="https://img.shields.io/github/languages/count/sobazino/shelem">
 <img src="https://img.shields.io/github/license/sobazino/shelem">
 <img src="https://img.shields.io/badge/Roadmap-2022-yellowgreen.svg">
 <img src="https://img.shields.io/badge/Author-Mehran%20Nosrati-blue.svg">
